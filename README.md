@@ -1,5 +1,5 @@
 # Forex_trade_analysis
-# Forex Data Analysis
+
 
 ## Description
 This project involves the analysis of forex data, specifically focusing on the EUR/USD currency pair. Utilizing Python and Jupyter Notebook, we perform exploratory data analysis (EDA) to uncover trends, volatility, and relationships within the forex market. The project employs libraries such as `pandas`, `matplotlib`, and `yfinance` to download, process, and visualize historical forex data.
